@@ -6,9 +6,9 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 (see instructions)
 
 **Name:**
-
+Jackson Strong
 **Hobbies:**
-
+Working out and audio books
 ## Section 1: Your First Commit
 
 1. Fork this Repo
