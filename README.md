@@ -5,8 +5,13 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:adi kal**
 
+**Name:**
+Jackson Strong
+**Hobbies:**
+Working out and audio books
+
+**Name:adi kal**
 
 **Hobbies: Hi i don't know my hobbies yet**
 
